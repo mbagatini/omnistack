@@ -19,7 +19,7 @@ module.exports = {
 
         res.header('X-Total-Count', count.count);
 
-        return res.json({incidents});
+        return res.json(incidents);
     },
 
     async store(req, res) {
