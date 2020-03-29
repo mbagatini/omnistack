@@ -5,9 +5,6 @@ Aplicação desenvovlida no curso Omnistack - Be The Hero.
 <img src="./frontend/src/assets/logo.svg"/>
 <br>Projeto Be The Hero - Seja um heroi para alguém
 </h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/License-MIT-red.svg"/>
-</p>
 
 ## Objetivo do projeto 
 
