@@ -1,18 +1,24 @@
 # OmniStack
-Aplicação desenvovlida no curso Omnistack - Be The Hero.
+Project developed in the OmniStack week - Be The Hero.
 
 <h4 align="center">
 <img src="./frontend/src/assets/logo.svg"/>
-<br>Projeto Be The Hero - Seja um heroi para alguém
+<br>Seja um heroi para alguém
 </h4>
 
-## Objetivo do projeto 
+## 💻 Project
 
-O projeto Be The Hero tem por objetivo conectar ONGs que necessitam de ajuda com pessoas que queiram ajudar.
-Nele, ONGs podem cadastrar projetos e as pessoas interessadas podem doar um valor qualquer para a causa.
+Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
-## Tecnologias 
+## :rocket: Technologies
 
- - <span><img href="https://reactnative.dev/" src="https://img.shields.io/badge/ReactNative-Mobile-red.svg?style=flat-square"/></span>
- - <span><img href="https://nodejs.org/en/" src="https://img.shields.io/badge/NodeJS-Backend-red.svg?style=flat-square"/></span>
- - <span><img href="https://pt-br.reactjs.org/" src="https://img.shields.io/badge/React-Frontend-red.svg?style=flat-square"/></span>
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 🔖 Layout
+
+Access the link on [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
