@@ -14,6 +14,18 @@ module.exports = {
     }
   },
 
+  test: {
+    client: 'postgresql',
+    connection: {
+      database: 'omnistack_test',
+      user:     'postgres',
+      password: 'postgres'
+    }, 
+    migrations: {
+      directory: './src/database/migrations'
+    }
+  },
+
   staging: {
     client: 'postgresql',
     connection: {
