@@ -1,5 +1,9 @@
 const express = require('express');
-const { celebrate, Segments, Joi } = require('celebrate');
+const {
+    celebrate,
+    Segments,
+    Joi
+} = require('celebrate');
 
 const OngController = require('./controller/OngController');
 const IncidentController = require('./controller/IncidentController');
@@ -10,7 +14,7 @@ const routes = express.Router();
 
 routes.post('/sessions', celebrate({
     [Segments.BODY]: Joi.object().keys({
-        id: Joi.number().required(),
+        id: Joi.string().required(),
     })
 }), SessionController.create);
 
