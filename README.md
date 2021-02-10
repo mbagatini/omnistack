@@ -1,8 +1,8 @@
 
-<h1 align="center">
+<h4 align="center">
 <img src="./frontend/src/assets/logo.svg"/>
 <br>Seja um herói para alguém
-</h1>
+</h4>
 
 <h4 align="center"> 
 	OmniStack 11.0
