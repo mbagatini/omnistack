@@ -7,9 +7,9 @@
 	Seja um herói para alguém
 </h3> 
 
-<p align="center">
+
 Project developed in the **OmniStack 11.0 - Be The Hero** by [Rocketseat](https://github.com/Rocketseat).
-</p>
+
 
 ## 💻 Project
 
