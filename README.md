@@ -1,12 +1,11 @@
 
-<h3 align="center">
+<h1 align="center">
 <img src="./frontend/src/assets/logo.svg"/>
-<br>Seja um herói para alguém
-</h3>
+</h1>
 
-<h4 align="center"> 
-	OmniStack 11.0
-</h4> 
+<h3 align="center"> 
+	Seja um herói para alguém
+</h3> 
 
 Project developed in the **OmniStack 11.0 - Be The Hero** by [Rocketseat](https://github.com/Rocketseat).
 
