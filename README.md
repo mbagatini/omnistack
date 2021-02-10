@@ -1,10 +1,13 @@
-# OmniStack
-Project developed in the OmniStack week - Be The Hero.
 
 <h4 align="center">
 <img src="./frontend/src/assets/logo.svg"/>
-<br>Seja um heroi para alguém
+<br>Seja um herói para alguém
 </h4>
+
+## OmniStack
+Project developed in the OmniStack week - Be The Hero.
+
+<img src="./frontend/src/assets/Login.png"/>
 
 ## 💻 Project
 
