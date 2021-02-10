@@ -5,13 +5,13 @@
 </h4>
 
 ## OmniStack
-Project developed in the OmniStack week - Be The Hero.
-
-<img src="./frontend/src/assets/Login.png"/>
+Project developed in the OmniStack week - Be The Hero by [Rocketseat](https://github.com/Rocketseat).
 
 ## 💻 Project
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
+
+<img src="./frontend/src/assets/Login.png"/>
 
 ## :rocket: Technologies
 
